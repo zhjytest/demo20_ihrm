@@ -1,0 +1,6 @@
+{
+    "add_emp":{"mobile":"13510002002","username":"123456","work_number":"1000","status_code": 200,"code": 10000,"message": "操作成功","success": true},
+    "search_emp":{"status_code": 200,"code": 10000,"message": "操作成功","success": true},
+    "update_emp":{"username":"test002","status_code": 200,"code": 10000,"message": "操作成功","success": true},
+    "delete_emp":{"status_code": 200,"code": 10000,"message": "操作成功","success": true}
+}
